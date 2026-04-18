@@ -1,0 +1,12 @@
+🔥 🧠 Structure ka logic
+
+
+app/ → pages (routing)
+components/ → reusable UI
+lib/ → API logic
+styles/ → CSS
+
+
+..................................................................
+
+
